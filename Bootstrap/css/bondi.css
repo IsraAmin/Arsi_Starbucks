@@ -1,0 +1,67 @@
+.container-fluid{
+    
+    box-shadow: 0px 10px 10px rgb(123, 61, 34);
+}
+.container2{
+    background-color: rgb(232, 230, 230);
+    
+    text-align: center;
+    
+}
+
+
+.col-md-3{
+
+    border-radius: 10%;
+    margin: 50px;;
+}
+.picture{
+  border-radius: 20px 20px 0px 0px;
+  padding-top: 10px;
+}
+
+.btn-outline-primary:hover{
+ background-color: rgb(123, 61, 34) !important;
+color: white !important;
+}
+
+.btn-outline-primary {
+    --bs-btn-color:  rgb(123, 61, 34) !important;
+    --bs-btn-border-color: rgb(123, 61, 34) !important;
+}
+.btn-outline-primary {
+--bs-btn-hover-border-color: rgb(123, 61, 34) !important;}
+
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-justify {
+    text-align: justify;
+}
+.carousel-item{
+  
+      height: 420px;
+}
+.carousel-item > img{
+object-fit:cover;
+}
+
+.mt4 , .my3 {
+    list-style: none;
+    
+}
+
+
+.sideNav___3P0Yp {
+    text-align: left;
+}
